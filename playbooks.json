@@ -1,0 +1,1580 @@
+{
+  "overview": {
+    "title": "Overview & Start Here",
+    "subtitle": "New to Swamp Fox, new to insurance, or just looking for the map.",
+    "sections": [
+      {
+        "heading": "What this tool is",
+        "cards": [
+          {
+            "title": "What you'll find here",
+            "body": [
+              "A glossary of 800+ insurance terms explained in plain English.",
+              "Reference cards grouped by topic — risk management, insurance operations, legal principles, auto, and life/health.",
+              "Role-focused playbooks for daily reference, account managers, loss control, and risk mitigation.",
+              "Direct links to federal and industry resources (FEMA, OSHA, FBI, USGS, NIST, CDC, EPA)."
+            ]
+          },
+          {
+            "title": "How to use it",
+            "body": [
+              "Type in the search bar to find any term instantly — works across glossary and reference cards.",
+              "Press / from anywhere to jump to search; press Esc to clear.",
+              "Use the sidebar to browse by topic.",
+              "Click the arrow next to an external resource to open it in a new tab."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Insurance in 90 seconds",
+        "cards": [
+          {
+            "title": "What insurance does",
+            "body": [
+              "Insurance transfers the financial risk of an unexpected loss from one party (the insured) to another (the insurer) in exchange for a premium.",
+              "The insurer pools premiums from many insureds and uses that pool to pay claims for the few who actually suffer losses.",
+              "Works because losses are uncertain at the individual level but predictable across a large group."
+            ]
+          },
+          {
+            "title": "The core parts of any policy",
+            "body": [
+              "Declarations — who is insured, what is insured, how much coverage, and for how long.",
+              "Insuring Agreement — what the insurer promises to do.",
+              "Exclusions — what the policy does NOT cover.",
+              "Conditions — what the insured has to do to keep coverage (pay premiums, report claims promptly, cooperate with investigation).",
+              "Definitions — what specific words mean in this policy."
+            ]
+          },
+          {
+            "title": "Premium, deductible, limit",
+            "body": [
+              "Premium: the price the insured pays for the policy.",
+              "Deductible: the amount the insured pays out of pocket before the insurer starts paying on a claim.",
+              "Limit: the most the insurer will pay for a covered loss (per occurrence) or over the policy period (aggregate).",
+              "Higher deductibles lower premium but increase out-of-pocket cost at claim time."
+            ]
+          },
+          {
+            "title": "Personal lines vs. commercial lines",
+            "body": [
+              "Personal lines cover individuals and families — homeowners, renters, auto, personal umbrella, life, health.",
+              "Commercial lines cover businesses — commercial property, general liability, workers comp, commercial auto, professional liability, cyber, D&O.",
+              "Different forms, different regulations, different underwriting approaches.",
+              "At Swamp Fox, most of our book is commercial (trucking, logging, timber, forestry) plus some personal lines."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The agency world",
+        "cards": [
+          {
+            "title": "What an agency does",
+            "body": [
+              "An agency represents insurance companies (carriers) and sells their products to insureds.",
+              "Producers (agents) find and service clients; account managers handle the day-to-day servicing.",
+              "The agency earns commission on premium and sometimes profit sharing on book performance.",
+              "Independent agents (like Swamp Fox) represent multiple carriers, so we can shop the market to find the best fit."
+            ]
+          },
+          {
+            "title": "The insurance cycle",
+            "body": [
+              "Soft market — lots of capacity, carriers compete hard, underwriting is relaxed, rates drop.",
+              "Hard market — capacity shrinks (usually after big losses), carriers tighten underwriting, rates rise, some risks become hard to place.",
+              "Cycles typically last 3-10 years.",
+              "A hard market is the best time to demonstrate an agency's value through market access and relationships."
+            ]
+          },
+          {
+            "title": "Why underwriting matters",
+            "body": [
+              "Carriers underwrite to decide whether to accept a risk and at what price.",
+              "Good submissions = complete applications + clean loss runs + narrative context + financial details.",
+              "A well-prepared submission gets better pricing and better terms than a rushed one — even for the same risk.",
+              "Submissions go through the 'eyes' of the underwriter; tell the story the way you'd want to hear it."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "daily_reference": {
+    "title": "Daily Reference",
+    "subtitle": "Quick answers for questions that come up during the day.",
+    "sections": [
+      {
+        "heading": "Client questions — clear answers",
+        "cards": [
+          {
+            "title": "\"What's my deductible?\"",
+            "body": [
+              "Check the Declarations page — typically Page 1 of the policy.",
+              "Property and auto each have their own deductibles.",
+              "Wind/hail and hurricane deductibles may be separate and higher (often a percentage of dwelling value).",
+              "Deductibles apply PER occurrence, not per policy period."
+            ]
+          },
+          {
+            "title": "\"Does my policy cover this?\"",
+            "body": [
+              "Never give a coverage opinion without reviewing the actual policy language.",
+              "Check declarations for limits and covered property/perils.",
+              "Check exclusions before confirming coverage.",
+              "When in doubt: report the claim — let the carrier make the coverage determination, not the agency.",
+              "Document every coverage conversation in the agency management system."
+            ]
+          },
+          {
+            "title": "\"Can I add my kid to my auto policy?\"",
+            "body": [
+              "Yes, in most cases — but rates can change significantly, especially for male drivers under 25.",
+              "A teen with a clean record is cheaper to add than to get their own policy.",
+              "A teen with tickets or accidents may make the parent's policy unaffordable.",
+              "Consider named driver exclusion only as a last resort — any accident caused by the excluded driver results in no coverage."
+            ]
+          },
+          {
+            "title": "\"I didn't get my renewal notice\"",
+            "body": [
+              "Check billing status — was there a non-pay cancellation?",
+              "Verify address on file is current.",
+              "Check the carrier's online portal for policy status.",
+              "If truly non-renewed: find out why (loss history, underwriting changes, market exit) and start remarketing immediately.",
+              "State law typically requires 30-60 days advance notice of non-renewal."
+            ]
+          },
+          {
+            "title": "\"How much coverage do I need?\"",
+            "body": [
+              "For property: enough to rebuild at current construction costs — not market value.",
+              "For liability: enough to protect your assets. Minimum limits protect the state, not you.",
+              "Umbrella policies add inexpensive high-limit protection over auto and homeowners.",
+              "Commercial limits should consider worst-case scenario claim + defense costs."
+            ]
+          },
+          {
+            "title": "\"Why did my premium go up?\"",
+            "body": [
+              "Rate changes filed with the state — affect all policyholders in a class.",
+              "Changes to your specific risk — new driver, new vehicle, claims, mod factor changes.",
+              "Inflation — replacement costs and medical costs rise; limits follow.",
+              "Territory changes — if you moved, rates may be different.",
+              "Always pull the full comparison before answering — carrier portals usually show the specific line items that changed."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "When a claim happens",
+        "cards": [
+          {
+            "title": "First response checklist",
+            "body": [
+              "Safety first — make sure everyone involved is safe.",
+              "Document the scene — photos, names, contact info for witnesses and parties.",
+              "Report to carrier promptly — delay can void coverage.",
+              "Do not admit fault or sign anything from other parties' insurers.",
+              "Keep all receipts related to the loss — additional living expenses, repairs, replacements.",
+              "Get the claim number and assigned adjuster contact info."
+            ]
+          },
+          {
+            "title": "What to tell clients about adjusters",
+            "body": [
+              "The carrier's staff adjuster works for the insurance company.",
+              "Independent adjusters are contracted by carriers during heavy claim volume.",
+              "Public adjusters represent the policyholder — at a percentage of the settlement.",
+              "The insured has the right to ask for an appraisal if they disagree on damage amounts.",
+              "Always keep the client-carrier-adjuster communication documented in the agency system."
+            ]
+          },
+          {
+            "title": "Subrogation in plain language",
+            "body": [
+              "If someone else caused the loss, the carrier can pursue that party after paying the claim.",
+              "If the carrier recovers from the responsible party, the insured may get the deductible back.",
+              "Insureds should not settle with at-fault parties or sign releases without carrier input — it can destroy subrogation rights."
+            ]
+          },
+          {
+            "title": "Total loss basics",
+            "body": [
+              "Vehicle is a total loss when repair + salvage exceeds actual cash value (threshold varies by state, 70-80% typical).",
+              "Carrier pays the actual cash value minus deductible.",
+              "Gap insurance fills the difference between ACV and loan balance.",
+              "Loaner/rental coverage expires at the settlement — not when the client buys a new car."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Certificates and contracts",
+        "cards": [
+          {
+            "title": "ACORD 25 — what it is and isn't",
+            "body": [
+              "It's evidence of insurance — confirms coverages are in place.",
+              "It is NOT an insurance contract; does not amend or extend coverage.",
+              "Adding \"Certificate Holder\" does not make them an insured — that requires an endorsement to the underlying policy.",
+              "Primary/non-contributory and waiver of subrogation require endorsement too, not just certificate wording."
+            ]
+          },
+          {
+            "title": "Additional insured vs. certificate holder",
+            "body": [
+              "Certificate Holder: gets notified of changes or cancellation — no coverage rights.",
+              "Additional Insured: actual coverage under the policy for specified liability — requires carrier-issued endorsement.",
+              "Blanket AI endorsement may cover \"any party required by contract\" — check the specific form.",
+              "Most common contract requirement errors: certificate shows AI but endorsement was never issued."
+            ]
+          },
+          {
+            "title": "Common contract requirements",
+            "body": [
+              "Additional insured status for the contract counterparty.",
+              "Primary and non-contributory basis.",
+              "Waiver of subrogation in favor of the counterparty.",
+              "Specific minimum limits (often $1M/$2M CGL, $1M auto, statutory workers comp).",
+              "AM Best rating minimum (usually A- VII or better).",
+              "30 days advance notice of cancellation — carriers often won't endorse this, so certificates say 'will endeavor to' instead."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "account_manager": {
+    "title": "Account Manager Playbook",
+    "subtitle": "Workflows, checklists, and standards for commercial account service.",
+    "sections": [
+      {
+        "heading": "Renewal workflow",
+        "cards": [
+          {
+            "title": "120 days out — start the renewal",
+            "body": [
+              "Pull loss runs from incumbent carrier (most require 30-day notice).",
+              "Review changes in the client's operations — new locations, new equipment, acquisitions, changes in revenue.",
+              "Flag accounts with adverse loss experience for early market conversation.",
+              "Update exposure basis: payroll (WC), revenue (GL), vehicles (auto), building values (property).",
+              "Identify whether we'll market or simply renew with incumbent."
+            ]
+          },
+          {
+            "title": "90 days out — prepare the submission",
+            "body": [
+              "Complete ACORD 125 (base), 126 (GL), 140 (property), 130 (WC) as applicable.",
+              "Pull MVRs on all listed drivers.",
+              "Gather 5 years of loss runs.",
+              "Narrative: describe the operation, key controls in place, management response to any losses.",
+              "Financial statements for larger accounts — underwriters want to see the balance sheet.",
+              "Current policy and all endorsements for coverage comparison."
+            ]
+          },
+          {
+            "title": "60-30 days out — market and quote",
+            "body": [
+              "Submit to 3+ carriers unless single-market placement is already established.",
+              "Track submission status; follow up weekly.",
+              "Compare proposals on coverage (not just premium): limits, deductibles, endorsements, exclusions.",
+              "Prepare proposal for client with side-by-side comparison.",
+              "Flag any coverage reductions — don't let a lower price mask a broader exclusion."
+            ]
+          },
+          {
+            "title": "Bind and deliver",
+            "body": [
+              "Signed application for the selected carrier.",
+              "Binder confirmation from the carrier.",
+              "Issue certificates to required parties before the expiration of old policy.",
+              "Ensure additional insured endorsements are issued on the new policy.",
+              "Schedule the policy delivery meeting; don't email-and-forget.",
+              "Document everything in the agency management system."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Client service standards",
+        "cards": [
+          {
+            "title": "Response time targets",
+            "body": [
+              "New quote requests: acknowledge within 4 business hours.",
+              "Certificate requests: turnaround same business day if received before 3pm.",
+              "Endorsements: submit to carrier within 24 hours of client request.",
+              "Claims reporting: within the carrier's required window, typically 24 hours.",
+              "Coverage questions: never answer outside documented policy language. When in doubt, escalate."
+            ]
+          },
+          {
+            "title": "Documentation discipline",
+            "body": [
+              "Every client interaction logged in the agency management system.",
+              "Every coverage conversation documented with date, participants, and conclusion.",
+              "Every client-requested change confirmed in writing (email acceptable) — verbal requests are an E&O risk.",
+              "Proposals in writing, signed acceptance for coverage reductions.",
+              "Follow-up reminders for commitments — to clients, carriers, and internal team."
+            ]
+          },
+          {
+            "title": "E&O risk points",
+            "body": [
+              "Failing to procure coverage the client requested.",
+              "Failing to notify of non-renewal in time to replace coverage.",
+              "Recommending coverage without understanding the exposure.",
+              "Answering a coverage question incorrectly (\"that's covered\").",
+              "Allowing coverage to lapse due to billing or payment issues.",
+              "Not confirming additional insured endorsements were actually issued.",
+              "Document, document, document."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Carrier relationships",
+        "cards": [
+          {
+            "title": "Know your markets",
+            "body": [
+              "Admitted carriers with rating above A- are typical go-to markets.",
+              "E&S (surplus lines) markets for risks the standard market declines — document declinations.",
+              "Specialty programs — trucking, logging, timber — with unique forms and endorsements.",
+              "Each carrier has an underwriting appetite — know yours before you submit.",
+              "Bad submissions hurt agency reputation — underwriters remember."
+            ]
+          },
+          {
+            "title": "Working with underwriters",
+            "body": [
+              "Tell the story — a good narrative turns a marginal account into a quotable risk.",
+              "Highlight positive controls: safety programs, driver training, maintenance programs.",
+              "Address loss history head-on — don't hide it, explain what changed.",
+              "Respond to underwriter questions the same day where possible.",
+              "When declined, ask why — it teaches what that market wants to see next time."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "loss_control": {
+    "title": "Loss Control Playbook",
+    "subtitle": "Practical loss control — before, during, and after the survey.",
+    "sections": [
+      {
+        "heading": "Preparing a client for a loss control visit",
+        "cards": [
+          {
+            "title": "Before the survey",
+            "body": [
+              "Confirm who will be on-site — owner, safety manager, operations manager.",
+              "Gather written programs: OSHA-required plans, driver files, equipment maintenance records.",
+              "Walk the premises from the consultant's perspective — fix the easy items first.",
+              "Housekeeping, exit signs, fire extinguishers, blocked electrical panels — the low-hanging fruit.",
+              "Review prior recommendations and have status updates ready."
+            ]
+          },
+          {
+            "title": "During the survey",
+            "body": [
+              "Be honest — misrepresentation comes back worse than disclosed problems.",
+              "Ask questions — the consultant's time is the cheapest loss control available.",
+              "Take notes on what they flag; ask for priorities.",
+              "Walk-through is a good time to ask about best practices from other similar operations."
+            ]
+          },
+          {
+            "title": "After the survey",
+            "body": [
+              "Expect the report within 2-4 weeks.",
+              "Go through each recommendation with the client — prioritize mandatory items.",
+              "Track completion — carriers check on open recommendations.",
+              "Unaddressed recommendations can lead to premium surcharges, non-renewal, or denied claims tied to the recommendation.",
+              "Document completion with photos and dates."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Hierarchy of controls — how to think about any hazard",
+        "cards": [
+          {
+            "title": "1. Elimination",
+            "body": [
+              "Remove the hazard entirely.",
+              "Example: replace a hazardous chemical with a safer alternative or eliminate a process that creates the hazard.",
+              "Most effective — and usually the hardest to implement."
+            ]
+          },
+          {
+            "title": "2. Substitution",
+            "body": [
+              "Replace a hazard with something less dangerous.",
+              "Example: switch from solvent-based to water-based paint.",
+              "Still effective without redesigning the whole operation."
+            ]
+          },
+          {
+            "title": "3. Engineering controls",
+            "body": [
+              "Isolate people from the hazard through physical means.",
+              "Examples: machine guards, ventilation hoods, noise-reducing enclosures, automatic shut-offs.",
+              "Works regardless of worker behavior."
+            ]
+          },
+          {
+            "title": "4. Administrative controls",
+            "body": [
+              "Change how people work to reduce exposure.",
+              "Examples: work rotation, training, procedures, signage, supervision.",
+              "Requires ongoing compliance — easier to fail."
+            ]
+          },
+          {
+            "title": "5. Personal Protective Equipment (PPE)",
+            "body": [
+              "Last line of defense — hard hats, safety glasses, hearing protection, gloves, respirators.",
+              "Only protects the wearer, and only if worn correctly.",
+              "Never the only control — always paired with controls higher on the hierarchy."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Common loss control recommendations",
+        "cards": [
+          {
+            "title": "Fleet / commercial auto",
+            "body": [
+              "Written driver qualification standards — minimum age, MVR review.",
+              "Pre-trip and post-trip inspections documented.",
+              "Telematics / GPS for monitoring speed, hard braking, hours of service.",
+              "Post-accident drug/alcohol testing program.",
+              "Regular vehicle maintenance schedule with records.",
+              "Return-to-work program for injured drivers."
+            ]
+          },
+          {
+            "title": "Property / fire protection",
+            "body": [
+              "Sprinkler systems inspected annually and 5-year internal inspection.",
+              "Fire extinguishers inspected monthly, serviced annually.",
+              "Hot work permit program — fire watch required 30+ minutes after work.",
+              "Housekeeping — combustibles stored at least 18 inches from sprinkler heads.",
+              "Smoke detectors and central station alarm monitoring.",
+              "Electrical panels cleared of storage, 36-inch clearance maintained."
+            ]
+          },
+          {
+            "title": "Workers compensation",
+            "body": [
+              "Written safety program.",
+              "New-hire safety orientation documented.",
+              "Job hazard analyses for high-risk tasks.",
+              "Safety committee meeting monthly.",
+              "Incident investigation for every recordable — and every near-miss when possible.",
+              "Early return-to-work program — bring injured workers back to modified duty.",
+              "Post-accident drug testing where legally permissible."
+            ]
+          },
+          {
+            "title": "General liability",
+            "body": [
+              "Slip-and-fall prevention — matting, signage, documented floor cleaning schedule.",
+              "Contractor insurance requirements — certificates and additional insured endorsements.",
+              "Written hold-harmless agreements in leases and service contracts.",
+              "Premises security — lighting, cameras, access control, alarm monitoring.",
+              "Product quality control / incident documentation for product liability exposures."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "risk_mitigation": {
+    "title": "Risk Mitigation Strategies",
+    "subtitle": "Practical prevention and mitigation for common business exposures.",
+    "sections": [
+      {
+        "heading": "The risk treatment toolkit",
+        "cards": [
+          {
+            "title": "Four options for any risk",
+            "body": [
+              "Avoid — don't do the thing that creates the risk (e.g., don't enter a market where you can't get insurance).",
+              "Reduce / Control — use loss prevention and loss control to lower frequency or severity.",
+              "Transfer — insurance, contractual risk transfer (hold-harmless, additional insured, waivers).",
+              "Retain — decide to absorb the risk (self-insure, higher deductible, self-insured retention).",
+              "Most real-world risk programs combine all four."
+            ]
+          },
+          {
+            "title": "Pre-loss vs. post-loss thinking",
+            "body": [
+              "Pre-loss — training, inspections, maintenance, safety programs. Reduces frequency.",
+              "Post-loss — sprinklers, emergency response, business continuity. Reduces severity.",
+              "Severity controls are often physical (engineered systems); frequency controls are often behavioral (training, procedures).",
+              "A complete program addresses both — one without the other leaves gaps."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Natural hazard preparedness",
+        "cards": [
+          {
+            "title": "Hurricane / high wind",
+            "body": [
+              "Roof straps and hurricane clips on frame construction.",
+              "Impact-rated windows or shutters in coastal exposure.",
+              "Garage door reinforcement — a failed garage door pressurizes the building and pops the roof.",
+              "Tree management — remove weak/leaning trees within fall distance of structures.",
+              "Written hurricane response plan, including evacuation triggers and shutdown procedures.",
+              "FEMA Protect Your Property from High Winds series is the core reference."
+            ]
+          },
+          {
+            "title": "Flood",
+            "body": [
+              "Confirm flood zone — FEMA's flood maps at hazards.fema.gov.",
+              "Elevate critical equipment (HVAC, electrical) above base flood elevation.",
+              "Flood insurance — mortgage lenders require it in SFHA zones; everyone in high-exposure areas should have it.",
+              "30-day waiting period for NFIP policies unless purchased at mortgage closing.",
+              "Document property with photos/videos before the event, not after."
+            ]
+          },
+          {
+            "title": "Wildfire",
+            "body": [
+              "Defensible space — 30-100 feet of cleared, low-vegetation zone around structures.",
+              "Non-combustible roofing, siding, and decking in wildfire-prone areas.",
+              "Vents screened to prevent ember intrusion.",
+              "Evacuation plan, including pets and key documents.",
+              "Photo/video inventory of property and contents stored off-site."
+            ]
+          },
+          {
+            "title": "Earthquake",
+            "body": [
+              "Seismic retrofit for older buildings in earthquake zones.",
+              "Secure heavy furniture, equipment, and inventory to prevent toppling.",
+              "Automatic gas shut-off valves.",
+              "Earthquake insurance — separate policy, significant deductible (often 10-15% of dwelling value).",
+              "Business continuity plan assumes utilities, suppliers, and logistics are disrupted for days to weeks."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Human-caused risks",
+        "cards": [
+          {
+            "title": "Workplace violence prevention",
+            "body": [
+              "Written workplace violence prevention policy, communicated to all employees.",
+              "Threat assessment team to evaluate warning signs.",
+              "Access control — badge readers, visitor logs, locked entries.",
+              "Employee assistance program for stressors that can escalate.",
+              "Active shooter training using the Run-Hide-Fight model.",
+              "FBI's 'Workplace Violence: Issues in Response' is the foundational reference."
+            ]
+          },
+          {
+            "title": "Employee dishonesty / fraud",
+            "body": [
+              "Separation of duties — the person who writes checks should not reconcile the bank statement.",
+              "Mandatory vacation — schemes often unravel when the perpetrator is out of the office.",
+              "Background checks on employees with financial or operational access.",
+              "Fidelity/crime insurance covers losses from employee theft.",
+              "Regular internal audits — even informal ones — are a strong deterrent."
+            ]
+          },
+          {
+            "title": "Cyber threats",
+            "body": [
+              "Multi-factor authentication on all business accounts — email, banking, agency management system.",
+              "Regular backups, tested restorations, and offline copies to defeat ransomware.",
+              "Employee training on phishing — the #1 attack vector.",
+              "Written incident response plan with roles, notifications, and contacts.",
+              "Cyber liability insurance — standalone policy; most property and CGL policies exclude cyber.",
+              "NIST Cybersecurity Framework (CSF) 2.0 is the practical baseline."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Business continuity",
+        "cards": [
+          {
+            "title": "Business Impact Analysis (BIA)",
+            "body": [
+              "Identify critical business functions — what must work for the business to survive.",
+              "Estimate the financial impact of disruption for each, over time (4 hours, 24 hours, 1 week).",
+              "Map dependencies — which systems, suppliers, people, and locations each function requires.",
+              "The output sets recovery priorities."
+            ]
+          },
+          {
+            "title": "Recovery time and recovery point objectives",
+            "body": [
+              "RTO (Recovery Time Objective) — how long can a critical function be down?",
+              "RPO (Recovery Point Objective) — how much data loss is acceptable?",
+              "Shorter RTOs and RPOs require more investment in redundancy and backups.",
+              "Align RTO/RPO with the BIA — don't spend on resilience that doesn't support a critical function."
+            ]
+          },
+          {
+            "title": "Testing the plan",
+            "body": [
+              "Tabletop exercise — discussion-based walk-through of a scenario. Lowest cost, highest value/hour.",
+              "Functional exercise — actually test specific systems (failover, communication trees, IT restore).",
+              "Full-scale exercise — simulate a real event with actual resource deployment.",
+              "After-Action Report — document what worked, what didn't, and action items.",
+              "Untested plans are wish lists, not plans."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "additional_resources": {
+    "title": "Additional Resources",
+    "subtitle": "Authoritative external references — federal, industry, and loss control.",
+    "sections": [
+      {
+        "heading": "Federal resources — preparedness & hazards",
+        "cards": [
+          {
+            "title": "FEMA — Ready.gov",
+            "body": [
+              "The official U.S. preparedness portal.",
+              "Hazard information sheets for every common hazard (flood, hurricane, wildfire, active shooter, cyberattack, pandemic).",
+              "\"Are You Ready?\" comprehensive guide.",
+              "12 Ways to Prepare checklist."
+            ],
+            "link": "https://www.ready.gov/"
+          },
+          {
+            "title": "FEMA — Multi-Hazard Mapping Platform",
+            "body": [
+              "Interactive map showing multiple hazards — flood, earthquake, wildfire, hurricane.",
+              "Search any address to see risk layers.",
+              "Useful for underwriting, site selection, and client risk conversations."
+            ],
+            "link": "https://hazards.fema.gov/"
+          },
+          {
+            "title": "FEMA — Building Science Publications",
+            "body": [
+              "Protect Your Property from High Winds series.",
+              "FEMA 426: Mitigation against Terrorist Attacks Against Buildings.",
+              "FEMA 427: Design of Commercial Buildings to Mitigate Terrorist Attacks.",
+              "FEMA 430: Site and Urban Design for Security.",
+              "FEMA 459: Incremental Protection for Existing Commercial Buildings."
+            ],
+            "link": "https://www.fema.gov/emergency-managers/risk-management/building-science/publications"
+          },
+          {
+            "title": "USGS — Natural Hazards",
+            "body": [
+              "Earthquake Hazards Program — fault maps, ground-shaking models.",
+              "Landslide Hazards Program — slope stability and susceptibility mapping.",
+              "Volcano Hazards Program — monitoring for active U.S. volcanoes."
+            ],
+            "link": "https://www.usgs.gov/science/science-explorer/natural-hazards"
+          },
+          {
+            "title": "NOAA — National Weather Service",
+            "body": [
+              "Official U.S. weather forecasts, watches, and warnings.",
+              "Severe weather tracking, hurricane forecasts, winter storm outlooks.",
+              "Hazard-specific pages (tornadoes, floods, heat, winter)."
+            ],
+            "link": "https://www.weather.gov/"
+          },
+          {
+            "title": "National Hurricane Center (NOAA)",
+            "body": [
+              "Atlantic and Eastern Pacific tropical weather outlooks.",
+              "Live tracking and 5-day forecasts for active storms.",
+              "Historical hurricane data and risk tools."
+            ],
+            "link": "https://www.nhc.noaa.gov/"
+          },
+          {
+            "title": "NOAA Climate.gov — Climate Data",
+            "body": [
+              "Historical climate data and climate change information.",
+              "Storm climatology and trend analysis.",
+              "Useful context for long-term property risk conversations."
+            ],
+            "link": "https://www.climate.gov/"
+          },
+          {
+            "title": "Ready Business (FEMA)",
+            "body": [
+              "FEMA's business-focused preparedness portal.",
+              "Business continuity planning templates.",
+              "Emergency response plan worksheets and hazard-specific guidance for employers."
+            ],
+            "link": "https://www.ready.gov/business"
+          }
+        ]
+      },
+      {
+        "heading": "Workplace safety — OSHA and industry",
+        "cards": [
+          {
+            "title": "OSHA Compliance Assistance",
+            "body": [
+              "Quick Start guides by industry.",
+              "Hazard identification tools and self-inspection checklists.",
+              "Small Business Handbook."
+            ],
+            "link": "https://www.osha.gov/complianceassistance"
+          },
+          {
+            "title": "OSHA — Workplace Heat Illness Prevention",
+            "body": [
+              "Heat stress prevention — hydration, rest, shade, acclimatization.",
+              "Required guidance for outdoor and hot indoor work environments.",
+              "Heat-related illness emergency response protocols."
+            ],
+            "link": "https://www.osha.gov/heat-exposure"
+          },
+          {
+            "title": "NIOSH — Workplace Safety Research",
+            "body": [
+              "National Institute for Occupational Safety and Health.",
+              "Occupational health research, PPE testing, and industry-specific hazards.",
+              "Extensive library of free downloadable publications."
+            ],
+            "link": "https://www.cdc.gov/niosh/"
+          },
+          {
+            "title": "FBI — Workplace Violence: Issues in Response",
+            "body": [
+              "FBI's guide for preventing and responding to workplace violence.",
+              "Threat assessment methodology.",
+              "Post-incident support and investigation protocols."
+            ],
+            "link": "https://www.fbi.gov/file-repository/stats-services-publications-workplace-violence-workplace-violence/view"
+          },
+          {
+            "title": "OSHA — eTools & Expert Advisors",
+            "body": [
+              "Interactive tools for hazard identification and compliance.",
+              "Industry-specific guides (construction, healthcare, manufacturing).",
+              "Free and publicly available."
+            ],
+            "link": "https://www.osha.gov/etools"
+          },
+          {
+            "title": "OSHA — Recordkeeping Forms & Tools",
+            "body": [
+              "Downloadable OSHA 300, 300A, and 301 forms.",
+              "Injury/illness recordkeeping guidance.",
+              "Required for most employers with more than 10 employees."
+            ],
+            "link": "https://www.osha.gov/recordkeeping/forms"
+          },
+          {
+            "title": "NIOSH Pocket Guide to Chemical Hazards",
+            "body": [
+              "Free reference for recognizing chemical hazards.",
+              "Exposure limits, health effects, PPE recommendations.",
+              "Searchable by chemical name or CAS number."
+            ],
+            "link": "https://www.cdc.gov/niosh/npg/"
+          },
+          {
+            "title": "DOL — Wage and Hour Division",
+            "body": [
+              "Federal labor law resources (FLSA, FMLA).",
+              "Worker classification guidance (employee vs. contractor).",
+              "Overtime, minimum wage, and child labor rules."
+            ],
+            "link": "https://www.dol.gov/agencies/whd"
+          },
+          {
+            "title": "EEOC — Employment Discrimination Guidance",
+            "body": [
+              "Federal guidance on employment discrimination laws.",
+              "Useful for EPLI loss control conversations.",
+              "ADA, Title VII, ADEA, Equal Pay Act resources."
+            ],
+            "link": "https://www.eeoc.gov/"
+          }
+        ]
+      },
+      {
+        "heading": "Trucking — FMCSA & DOT",
+        "cards": [
+          {
+            "title": "FMCSA — Federal Motor Carrier Safety Administration",
+            "body": [
+              "Regulatory home for interstate commercial motor carriers.",
+              "Safety regulations, guidance, and enforcement actions.",
+              "Pre-employment screening tools.",
+              "Hours of Service compliance resources."
+            ],
+            "link": "https://www.fmcsa.dot.gov/"
+          },
+          {
+            "title": "FMCSA — SAFER Safety Record Lookup",
+            "body": [
+              "Public database of carrier safety records.",
+              "Operating authority, insurance status, and safety measures.",
+              "CSA scores and BASIC category rankings.",
+              "Used by shippers, brokers, and insurance underwriters."
+            ],
+            "link": "https://safer.fmcsa.dot.gov/"
+          },
+          {
+            "title": "FMCSA — Drug & Alcohol Clearinghouse",
+            "body": [
+              "Federal database of drug and alcohol violations by commercial drivers.",
+              "Required employer queries before hiring and annually for current drivers.",
+              "Driver self-query available."
+            ],
+            "link": "https://clearinghouse.fmcsa.dot.gov/"
+          },
+          {
+            "title": "FMCSA — Regulations (49 CFR)",
+            "body": [
+              "Full text of the Federal Motor Carrier Safety Regulations.",
+              "Driver qualifications, hours of service, vehicle maintenance.",
+              "Hazmat transport, financial responsibility."
+            ],
+            "link": "https://www.fmcsa.dot.gov/regulations"
+          },
+          {
+            "title": "ATA — American Trucking Associations",
+            "body": [
+              "The trucking industry's largest trade association.",
+              "Safety resources, industry research, and regulatory updates."
+            ],
+            "link": "https://www.trucking.org/"
+          },
+          {
+            "title": "GA DOT — Georgia Department of Transportation",
+            "body": [
+              "State-level motor carrier regulations for Georgia.",
+              "Oversize/overweight permitting, state routes, bridge weights."
+            ],
+            "link": "https://www.dot.ga.gov/"
+          },
+          {
+            "title": "J.J. Keller — Compliance Resources",
+            "body": [
+              "Industry-standard trucking compliance publications.",
+              "Driver qualification files, HOS recordkeeping, hazmat shipping papers.",
+              "Widely used compliance reference."
+            ],
+            "link": "https://www.jjkeller.com/"
+          }
+        ]
+      },
+      {
+        "heading": "Cybersecurity — NIST, CISA, others",
+        "cards": [
+          {
+            "title": "NIST Cybersecurity Framework (CSF) 2.0",
+            "body": [
+              "Voluntary framework: Govern, Identify, Protect, Detect, Respond, Recover.",
+              "Widely adopted across industries as a baseline.",
+              "Free implementation guides and profiles by industry."
+            ],
+            "link": "https://www.nist.gov/cyberframework"
+          },
+          {
+            "title": "NIST Computer Security Resource Center",
+            "body": [
+              "Central NIST cybersecurity publications portal.",
+              "SP 800-30: Risk Management Guide for IT Systems.",
+              "SP 800-100: Information Security Handbook for Managers.",
+              "SP 800-14: Generally Accepted Principles for Securing IT Systems.",
+              "SP 800-12: Introduction to Computer Security."
+            ],
+            "link": "https://csrc.nist.gov/"
+          },
+          {
+            "title": "CISA — Cybersecurity & Infrastructure Security Agency",
+            "body": [
+              "Federal agency for cybersecurity and critical infrastructure.",
+              "Known Exploited Vulnerabilities catalog.",
+              "Free cyber hygiene services for critical infrastructure.",
+              "Ransomware guidance and incident response resources."
+            ],
+            "link": "https://www.cisa.gov/"
+          },
+          {
+            "title": "FBI — IC3 (Internet Crime Complaint Center)",
+            "body": [
+              "Federal reporting center for cyber crimes.",
+              "Annual reports with loss trends by crime type.",
+              "File a report if a client is victimized."
+            ],
+            "link": "https://www.ic3.gov/"
+          },
+          {
+            "title": "CISA — StopRansomware.gov",
+            "body": [
+              "Federal one-stop for ransomware prevention and response.",
+              "Free resources, alerts, and incident reporting.",
+              "Helpful guidance for cyber insureds."
+            ],
+            "link": "https://www.stopransomware.gov/"
+          },
+          {
+            "title": "Have I Been Pwned",
+            "body": [
+              "Free service to check if email addresses or passwords have been in known data breaches.",
+              "Useful for client awareness conversations."
+            ],
+            "link": "https://haveibeenpwned.com/"
+          }
+        ]
+      },
+      {
+        "heading": "Environmental & health",
+        "cards": [
+          {
+            "title": "EPA — Risk Assessment Portal",
+            "body": [
+              "Environmental risk assessment methodology.",
+              "Human health and ecological risk guidance.",
+              "Chemical safety and pollution prevention resources."
+            ],
+            "link": "https://www.epa.gov/risk"
+          },
+          {
+            "title": "CDC — Filtration for Building Environments",
+            "body": [
+              "Guidance for protecting buildings from airborne chemical, biological, or radiological threats.",
+              "HVAC design and filtration upgrade recommendations.",
+              "Relevant for pandemic preparedness and security planning."
+            ],
+            "link": "https://www.cdc.gov/niosh/docs/2003-136/"
+          },
+          {
+            "title": "NIOSH Pocket Guide to Chemical Hazards",
+            "body": [
+              "Reference source for chemical hazard recognition.",
+              "Exposure limits, health effects, PPE recommendations.",
+              "Searchable and free."
+            ],
+            "link": "https://www.cdc.gov/niosh/npg/"
+          },
+          {
+            "title": "EPA — Enforcement & Compliance History Online (ECHO)",
+            "body": [
+              "Public database of EPA enforcement actions and compliance history.",
+              "Search by facility, zip code, or industry.",
+              "Useful for environmental underwriting due diligence."
+            ],
+            "link": "https://echo.epa.gov/"
+          },
+          {
+            "title": "EPA — Superfund Site Lookup",
+            "body": [
+              "Database of National Priorities List (Superfund) sites.",
+              "Important for property purchases and environmental liability."
+            ],
+            "link": "https://www.epa.gov/superfund"
+          }
+        ]
+      },
+      {
+        "heading": "Industry — trade groups & data",
+        "cards": [
+          {
+            "title": "Insurance Information Institute (III)",
+            "body": [
+              "Industry data, statistics, and educational resources.",
+              "Facts + Statistics reports by line of business.",
+              "Consumer-facing explanations useful for client conversations."
+            ],
+            "link": "https://www.iii.org/"
+          },
+          {
+            "title": "NAIC — National Association of Insurance Commissioners",
+            "body": [
+              "Home of state insurance regulators.",
+              "Consumer insurance search tool (find an insurer's state-level data).",
+              "Model laws and regulatory guidance."
+            ],
+            "link": "https://content.naic.org/"
+          },
+          {
+            "title": "AM Best",
+            "body": [
+              "Insurance company financial strength ratings.",
+              "Industry reports and analysis.",
+              "Essential for underwriting and account placement."
+            ],
+            "link": "https://www.ambest.com/"
+          },
+          {
+            "title": "IIABA — Big 'I' Independent Agents",
+            "body": [
+              "Trade association for independent insurance agents.",
+              "Advocacy, education, and agency resources.",
+              "E&O risk management and agency best practices."
+            ],
+            "link": "https://www.independentagent.com/"
+          },
+          {
+            "title": "S&P Global Market Intelligence — Insurance",
+            "body": [
+              "Industry data, statutory filings, and regulatory actions.",
+              "Financial strength analysis and market trends."
+            ],
+            "link": "https://www.spglobal.com/marketintelligence/en/campaigns/insurance"
+          },
+          {
+            "title": "Demotech — Alternative Rating Agency",
+            "body": [
+              "Rating agency for insurance companies.",
+              "Commonly used for Florida homeowners carriers and other specialty markets."
+            ],
+            "link": "https://www.demotech.com/"
+          },
+          {
+            "title": "NCCI — Workers Compensation",
+            "body": [
+              "National Council on Compensation Insurance.",
+              "Class codes, experience rating, and state-specific workers comp data.",
+              "The primary rating bureau for most states."
+            ],
+            "link": "https://www.ncci.com/"
+          },
+          {
+            "title": "ISO — Insurance Services Office",
+            "body": [
+              "Develops standard policy forms (CGL, CPP, BOP, auto).",
+              "Rating information and loss data.",
+              "Most commercial insurers use ISO forms or close variants."
+            ],
+            "link": "https://www.verisk.com/insurance/products/iso/"
+          },
+          {
+            "title": "Reinsurance Association of America",
+            "body": [
+              "Trade association for reinsurance industry.",
+              "Industry data, education, and regulatory advocacy."
+            ],
+            "link": "https://www.reinsurance.org/"
+          }
+        ]
+      },
+      {
+        "heading": "Loss control — insurer technical references",
+        "cards": [
+          {
+            "title": "Hartford Steam Boiler (HSB)",
+            "body": [
+              "Technical guidance on boiler, pressure vessel, and equipment safety.",
+              "Equipment start-up, shutdown, and maintenance fact sheets.",
+              "Core reference for equipment breakdown loss control."
+            ],
+            "link": "https://www.munichre.com/hsb/en/products-and-solutions.html"
+          },
+          {
+            "title": "NFPA — National Fire Protection Association",
+            "body": [
+              "Codes and standards for fire, electrical, and life safety.",
+              "NFPA 13 (sprinklers), NFPA 70 (electrical), NFPA 101 (life safety).",
+              "Core reference for property loss control."
+            ],
+            "link": "https://www.nfpa.org/"
+          },
+          {
+            "title": "IBHS — Insurance Institute for Business & Home Safety",
+            "body": [
+              "Independent, nonprofit research on property loss reduction.",
+              "FORTIFIED construction standard for wind-resistant building.",
+              "Loss-prevention research and retrofit guides."
+            ],
+            "link": "https://ibhs.org/"
+          },
+          {
+            "title": "UL — Underwriters Laboratories",
+            "body": [
+              "Product safety testing and certification.",
+              "Fire equipment standards (sprinklers, alarms, extinguishers).",
+              "UL listings are commonly required for insurance credit."
+            ],
+            "link": "https://www.ul.com/"
+          },
+          {
+            "title": "FM Global — Property Loss Prevention Data Sheets",
+            "body": [
+              "Free property loss prevention reference documents.",
+              "Industry-standard guidance on sprinklers, hot work, storage, and more.",
+              "Foundational reference for property loss control."
+            ],
+            "link": "https://www.fmglobal.com/research-and-resources/fm-global-data-sheets"
+          },
+          {
+            "title": "National Safety Council",
+            "body": [
+              "Workplace and transportation safety resources.",
+              "Training programs and safety research.",
+              "Injury statistics and safety awareness campaigns."
+            ],
+            "link": "https://www.nsc.org/"
+          },
+          {
+            "title": "American Society of Safety Professionals (ASSP)",
+            "body": [
+              "Professional organization for safety specialists.",
+              "Technical guidance, training, and industry standards."
+            ],
+            "link": "https://www.assp.org/"
+          }
+        ]
+      },
+      {
+        "heading": "Logging & forestry",
+        "cards": [
+          {
+            "title": "Forest Resources Association (FRA)",
+            "body": [
+              "National trade association for timber harvesting and transportation.",
+              "Safety research, best practices, training materials.",
+              "Publications on felling, yarding, and log trucking."
+            ],
+            "link": "https://forestresources.org/"
+          },
+          {
+            "title": "Southeastern Wood Producers Association",
+            "body": [
+              "Regional trade group for Southeastern timber producers.",
+              "Safety training, member resources, industry advocacy."
+            ],
+            "link": "https://southeasternwood.com/"
+          },
+          {
+            "title": "Georgia Forestry Commission",
+            "body": [
+              "State agency for forestry in Georgia.",
+              "Fire weather, burn permits, forest protection.",
+              "Directly relevant to our timber and forestry book."
+            ],
+            "link": "https://gatrees.org/"
+          },
+          {
+            "title": "OSHA — Logging Operations Standard (29 CFR 1910.266)",
+            "body": [
+              "Full text of OSHA's logging safety regulation.",
+              "Training, PPE, work practices, equipment.",
+              "The baseline requirement for any U.S. logging operation."
+            ],
+            "link": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.266"
+          },
+          {
+            "title": "NIOSH — Logging Safety Research",
+            "body": [
+              "Federal research on logging injuries and prevention.",
+              "Hazard analysis for felling, yarding, and loading operations."
+            ],
+            "link": "https://www.cdc.gov/niosh/topics/logging/"
+          }
+        ]
+      },
+      {
+        "heading": "Claims, legal, and recovery",
+        "cards": [
+          {
+            "title": "NICB — National Insurance Crime Bureau",
+            "body": [
+              "Industry organization focused on preventing insurance fraud.",
+              "VIN checks, vehicle theft database, fraud alerts.",
+              "Useful resource when investigating suspicious claims."
+            ],
+            "link": "https://www.nicb.org/"
+          },
+          {
+            "title": "Coalition Against Insurance Fraud",
+            "body": [
+              "Fraud prevention advocacy and resources.",
+              "State-by-state fraud enforcement information."
+            ],
+            "link": "https://insurancefraud.org/"
+          },
+          {
+            "title": "NFIP — Flood Insurance",
+            "body": [
+              "FEMA's flood insurance program portal.",
+              "Policy lookups, agent resources, and flood zone maps.",
+              "Essential for any flood-exposed account."
+            ],
+            "link": "https://www.floodsmart.gov/"
+          },
+          {
+            "title": "IRS — Business & Tax Resources",
+            "body": [
+              "Tax treatment of insurance premiums, losses, and proceeds.",
+              "Publication 535 (Business Expenses) covers deductibility."
+            ],
+            "link": "https://www.irs.gov/businesses"
+          },
+          {
+            "title": "SBA — U.S. Small Business Administration",
+            "body": [
+              "Disaster assistance loans after covered and uncovered losses.",
+              "Business recovery resources beyond insurance.",
+              "Useful for clients facing uninsured losses."
+            ],
+            "link": "https://www.sba.gov/"
+          }
+        ]
+      },
+      {
+        "heading": "Georgia & state-specific",
+        "cards": [
+          {
+            "title": "Georgia Office of Insurance Commissioner",
+            "body": [
+              "State insurance regulator for Georgia.",
+              "Consumer complaints, license verification, and policy searches.",
+              "File complaints, find approved forms, check carrier status."
+            ],
+            "link": "https://oci.georgia.gov/"
+          },
+          {
+            "title": "Georgia State Board of Workers Compensation",
+            "body": [
+              "State workers comp authority.",
+              "Forms, claim process information, and first report of injury."
+            ],
+            "link": "https://sbwc.georgia.gov/"
+          },
+          {
+            "title": "Georgia Department of Revenue — Motor Vehicles",
+            "body": [
+              "State motor vehicle registration and titling.",
+              "Title transfer, dealer licensing, and commercial vehicle information."
+            ],
+            "link": "https://dor.georgia.gov/motor-vehicles"
+          },
+          {
+            "title": "South Carolina Department of Insurance",
+            "body": [
+              "South Carolina's state insurance regulator (adjacent to our Georgia operations).",
+              "Consumer resources, license verification, complaint resolution."
+            ],
+            "link": "https://doi.sc.gov/"
+          },
+          {
+            "title": "NAIC Insure-U for Consumers",
+            "body": [
+              "Consumer-friendly guides to insurance across all lines.",
+              "Useful to share with clients for self-education."
+            ],
+            "link": "https://content.naic.org/consumer.htm"
+          }
+        ]
+      }
+    ]
+  },
+  "tips_tricks": {
+    "title": "Helpful Tips & Tricks",
+    "subtitle": "Practical shortcuts, common pitfalls, and habits that separate good from great.",
+    "sections": [
+      {
+        "heading": "Using this tool efficiently",
+        "cards": [
+          {
+            "title": "Search shortcuts",
+            "body": [
+              "Press / from anywhere to jump straight into the search bar.",
+              "Press Ctrl+K (or ⌘+K on Mac) to focus search from any page.",
+              "Press Esc while in search to clear the query.",
+              "When multiple results appear, use the ↑ ↓ arrow buttons to jump between them.",
+              "Partial words work — searching \"deduct\" finds all deductible-related terms."
+            ]
+          },
+          {
+            "title": "Multi-word searches",
+            "body": [
+              "Search uses AND logic across words — \"fire liability\" finds cards with BOTH words.",
+              "Use specific terms over generic ones — \"MCS-90\" beats \"trucking\" for precision.",
+              "Acronyms and abbreviations are searchable — CGL, BOP, EPLI, D&O all work.",
+              "Numeric values work — search \"25/50/25\" to find Georgia auto limits."
+            ]
+          },
+          {
+            "title": "Bookmarking specific terms",
+            "body": [
+              "Click any letter in the A–Z bar for fast navigation.",
+              "Every term and card has a URL — right-click to copy a link for sharing.",
+              "Use the sidebar TOC to jump between major sections.",
+              "Click the back-to-top button (↑ in the corner) to return to the search bar quickly."
+            ]
+          },
+          {
+            "title": "Sharing with clients",
+            "body": [
+              "This tool is internal-only — use it to prepare for client conversations, not as a client-facing document.",
+              "Client-facing education should use NAIC's Insure-U or III's consumer-focused content (linked in Additional Resources).",
+              "Avoid sharing policy language or coverage interpretations in writing without documenting it in the agency system."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Commercial underwriting tips",
+        "cards": [
+          {
+            "title": "The 3 things every submission needs",
+            "body": [
+              "Complete application — every field filled in, not left for \"underwriter to ask.\"",
+              "5 years of hard-copy loss runs — not just \"no losses\" statements.",
+              "Narrative — explain the operation, controls in place, and anything unusual about the risk in plain English.",
+              "Bonus 4th: management bio — underwriters pay close attention to who is running the business."
+            ]
+          },
+          {
+            "title": "Pricing gets better the more you explain",
+            "body": [
+              "Safety programs → written, not verbal. Attach the program document.",
+              "Loss history → if there are losses, describe what was learned and changed.",
+              "Growth → if revenue is up, explain the driver (organic vs. acquisition vs. price).",
+              "New operations → explain the rationale, experience, and controls in the new line.",
+              "The best underwriting submissions read like a pitch deck, not an application."
+            ]
+          },
+          {
+            "title": "Red flags that make underwriters say no",
+            "body": [
+              "Loss runs showing a pattern of similar-cause losses — signals untreated root cause.",
+              "Prior non-renewals without explanation.",
+              "Missing or evasive answers on key application questions.",
+              "Late-stage discovery of material facts (bankruptcy, lawsuits, criminal history).",
+              "Reputation issues — public complaints, BBB ratings, online reviews.",
+              "Address them head-on in the submission, don't wait for discovery."
+            ]
+          },
+          {
+            "title": "Know when to use E&S vs. admitted",
+            "body": [
+              "Admitted carriers offer state guaranty fund protection and predictable forms.",
+              "E&S offers flexibility for risks admitted won't write — high exposure, unusual operations, claims history.",
+              "If the admitted market declines 3+ times, E&S is usually the path.",
+              "E&S carriers still need to be A-rated; don't accept unauthorized status alone as justification.",
+              "Document declinations — most states require proof of diligent effort before placing surplus lines."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Personal lines tips",
+        "cards": [
+          {
+            "title": "Write to replacement cost, not market value",
+            "body": [
+              "Market value includes land; replacement cost is what it takes to rebuild.",
+              "In many markets (older homes, declining areas, unique features), replacement cost exceeds market value.",
+              "Underwriting tools (e.g., 360Value, MSB) produce replacement cost estimates — use them at renewal.",
+              "Inflation guard endorsement is cheap insurance against static limits."
+            ]
+          },
+          {
+            "title": "Umbrella is the cheapest liability you can buy",
+            "body": [
+              "Typically $200-$400 for $1 million of additional coverage.",
+              "Required underlying limits: $250,000/$500,000 auto, $300,000 homeowners in most carriers.",
+              "Protects assets from lawsuits — especially important for anyone with significant net worth, teen drivers, or unusual exposure (pools, trampolines, dogs).",
+              "Sell umbrella at every renewal conversation."
+            ]
+          },
+          {
+            "title": "Common homeowners gaps clients miss",
+            "body": [
+              "Flood — excluded; separate NFIP or private flood required.",
+              "Earthquake — excluded; separate policy with 10-15% deductible.",
+              "Water/sewer backup — excluded; add the endorsement ($40-$100/year typical).",
+              "Ordinance or law — standard limit often 10% of dwelling, not enough for older homes.",
+              "Jewelry/collectibles — sub-limits apply; schedule valuable items.",
+              "Home-based business — typically excluded; add endorsement or separate BOP."
+            ]
+          },
+          {
+            "title": "Teens and auto insurance",
+            "body": [
+              "Adding a teen to the parents' policy is almost always cheaper than a separate policy.",
+              "Good student discounts (usually requires a B average) are significant.",
+              "Telematics programs can reduce premiums based on actual driving behavior.",
+              "Consider raising liability limits BEFORE adding a teen driver, not after an accident.",
+              "Named driver exclusion is a last resort — excluded drivers have zero coverage even in emergencies."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Certificates and contracts",
+        "cards": [
+          {
+            "title": "Reading a contract insurance requirement",
+            "body": [
+              "Parse it literally — what limits, what status, what wording, which policies?",
+              "Additional insured status on CGL → requires carrier-issued endorsement, not just certificate wording.",
+              "Waiver of subrogation → also requires endorsement.",
+              "Primary and non-contributory → check the endorsement to confirm it applies as worded.",
+              "30-day advance notice of cancellation → most carriers won't endorse this; certificates typically say \"endeavor to.\""
+            ]
+          },
+          {
+            "title": "What a certificate does and doesn't do",
+            "body": [
+              "Certificate is evidence — not a contract and not an insurance amendment.",
+              "Certificate Holder status means \"notify me of changes\" — no coverage rights whatsoever.",
+              "Only an endorsement to the underlying policy can extend coverage to another party.",
+              "Insured should never try to modify a certificate — the document is carrier-generated.",
+              "If a party requires coverage beyond the certificate, document their requirements and request the proper endorsement."
+            ]
+          },
+          {
+            "title": "Reporting a claim — say this, not that",
+            "body": [
+              "✓ \"I'll report this to your carrier so they can investigate.\"",
+              "✗ \"That's covered.\" (Coverage decisions are the carrier's, not the agency's.)",
+              "✓ \"Let me pull your policy and check.\"",
+              "✗ \"I don't think that's covered.\" (If wrong, the insured may not report a covered loss.)",
+              "✓ \"Let's get the claim reported — we can sort out coverage questions as the investigation proceeds.\"",
+              "When in doubt, report. An unreported covered claim is worse than a reported uncovered one."
+            ]
+          },
+          {
+            "title": "Documentation discipline — your E&O shield",
+            "body": [
+              "Every client interaction logged in the agency management system.",
+              "Every coverage conversation followed up in writing (email is fine).",
+              "Every client-requested change confirmed in writing before and after.",
+              "Every proposal delivered with written comparison of coverages — not just premium.",
+              "Every declination documented with carrier name, date, and reason.",
+              "If it isn't in the file, it didn't happen."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Claims handling tips",
+        "cards": [
+          {
+            "title": "First 24 hours after a loss",
+            "body": [
+              "Safety first — make sure everyone is safe and out of harm's way.",
+              "Document everything — photos, videos, names, contact info of all parties and witnesses.",
+              "Report to carrier promptly — most policies require \"prompt\" notice.",
+              "Do not admit fault or sign anything from other parties.",
+              "Protect property from further damage (reasonable mitigation) — this is required by policy.",
+              "Keep all receipts — additional living expenses, emergency repairs, tarps, hotels."
+            ]
+          },
+          {
+            "title": "Subrogation — don't accidentally destroy it",
+            "body": [
+              "If someone else caused the loss, the carrier can pursue them after paying the claim.",
+              "Insureds should not sign releases, settlements, or waivers with at-fault parties.",
+              "If the insured recovers from the at-fault party AND the carrier, the carrier is entitled to reimbursement (subrogation).",
+              "Successful subrogation can mean the deductible comes back to the insured.",
+              "Always coordinate with the claims adjuster before any communication with at-fault parties."
+            ]
+          },
+          {
+            "title": "Working with adjusters",
+            "body": [
+              "Staff adjusters work for the carrier — professional and fair but not advocates.",
+              "Independent adjusters are contract adjusters used during heavy claim volume — same loyalty.",
+              "Public adjusters represent the insured — for a percentage of the settlement.",
+              "The insured has a right to appraisal if there's a dispute over the amount of a loss (not coverage).",
+              "If communication breaks down, escalate — to the claim manager, then the producer at the agency, then the carrier's executive office."
+            ]
+          },
+          {
+            "title": "Total loss settlements",
+            "body": [
+              "For vehicles: ACV paid minus the deductible.",
+              "Valuation methods vary — many carriers use a valuation service (CCC, Mitchell).",
+              "If the insured disputes the ACV, they can provide comparable listings to support a higher value.",
+              "Gap insurance fills the difference between ACV and loan balance — critical for newer financed vehicles.",
+              "Rental reimbursement ends when the total loss settlement is delivered — not when the client has a new vehicle."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Habits that separate good from great",
+        "cards": [
+          {
+            "title": "Never wing a coverage question",
+            "body": [
+              "Pull the actual policy every time.",
+              "Every carrier has coverage variants — don't assume your memory of \"standard\" applies.",
+              "Check declarations, insuring agreement, exclusions, conditions, and endorsements.",
+              "When uncertain, say so. \"Let me review the policy and get back to you by end of day\" is a better answer than a confident wrong one.",
+              "Never answer policy questions from memory — write the answer down with citations."
+            ]
+          },
+          {
+            "title": "Over-document rather than under-document",
+            "body": [
+              "Email follow-up after every meaningful conversation.",
+              "Store important artifacts (proposals, applications, binders) in the AMS, not personal folders.",
+              "Cc the account manager on client-facing emails.",
+              "When in doubt, send the written recap.",
+              "The time spent documenting is a fraction of the time spent resolving disputes."
+            ]
+          },
+          {
+            "title": "Review the whole account at renewal",
+            "body": [
+              "Has the operation changed? New locations, employees, equipment, revenue?",
+              "Has the market changed? Rate increases, carrier exits, new products?",
+              "Has the client's exposure changed? New contracts, new customers, new products/services?",
+              "What's the natural round-out? If we have GL, can we cross-sell auto or workers comp?",
+              "Every renewal is a chance to retain AND to grow the account."
+            ]
+          },
+          {
+            "title": "Know the carriers, not just the rates",
+            "body": [
+              "AM Best rating — A-rated or better for most commercial accounts.",
+              "Claims reputation — which carriers pay vs. which fight?",
+              "Financial strength — surplus, loss ratios, reserve history.",
+              "Appetite — each carrier has classes they want and classes they avoid; submit to markets that want the class.",
+              "Relationships — the underwriter remembers every bad submission. Build a reputation as an agency that brings quality, complete risks."
+            ]
+          },
+          {
+            "title": "Keep learning — the industry changes",
+            "body": [
+              "CISR / CIC / CPCU designations are worth the effort.",
+              "Subscribe to industry publications: Insurance Journal, Business Insurance, Property Casualty 360.",
+              "Read carrier bulletins when they arrive — underwriting appetite and form changes matter.",
+              "Attend carrier technical webinars — good relationships produce better placement.",
+              "Ask questions. The best producers ask \"why?\" about everything."
+            ]
+          },
+          {
+            "title": "Client relationships compound over time",
+            "body": [
+              "The best client is a loyal client — retention is worth more than new business volume.",
+              "Be their insurance person, not their insurance salesperson.",
+              "Respond fast — \"I don't know but I'll find out\" beats waiting to respond with the right answer.",
+              "Be honest about bad news — rate increases, non-renewals, coverage reductions. Deliver straight, explain why.",
+              "Celebrate wins with clients — business milestones, new hires, new locations. Insurance is part of their business; be part of their story."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

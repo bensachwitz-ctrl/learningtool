@@ -1,0 +1,28 @@
+Add Tips & Tricks playbook, search result navigator, expand Additional Resources
+
+FEATURES:
+- Search result navigator: ↑ ↓ buttons in header show 'N of M' count
+  * Click to jump forward/back through matches
+  * Enter / Shift+Enter also navigate while focused on search
+  * Current match highlighted with orange outline + cream background
+  * Automatically scrolls into view when navigating
+- Works on desktop (inline with search bar) and mobile (second row)
+
+CONTENT:
+- New 7th playbook page: 'Tips & Tricks' with 6 sections covering:
+  * Using this tool efficiently (shortcuts, multi-word search, bookmarking, sharing)
+  * Commercial underwriting (submission standards, pricing tips, red flags, E&S vs admitted)
+  * Personal lines (replacement cost, umbrella, HO gaps, teens and auto)
+  * Certificates and contracts (requirements, what certs do/don't, claim language, documentation)
+  * Claims handling (first 24 hrs, subrogation, adjusters, total loss)
+  * Habits that separate good from great (policy discipline, documentation, renewal review, carrier knowledge, learning, client relationships)
+- Expanded Additional Resources from 24 → 66 external links
+  * New NOAA, National Hurricane Center, Climate.gov, Ready Business
+  * More OSHA (eTools, recordkeeping), NIOSH Pocket Guide, DOL, EEOC
+  * More trucking (49 CFR, ATA, GA DOT, J.J. Keller)
+  * FBI IC3, CISA StopRansomware, Have I Been Pwned
+  * EPA ECHO, Superfund, Demotech, NCCI, ISO, RAA
+  * UL, FM Global data sheets, NSC, ASSP
+  * New logging section (FRA, Southeastern Wood, GA Forestry, 1910.266, NIOSH)
+  * New claims & legal (NICB, fraud coalition, NFIP, IRS, SBA)
+  * New Georgia & state-specific section (OCI, GA workers comp, MVD, SC DOI)
