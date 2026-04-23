@@ -1,0 +1,21 @@
+Final build: horizontal glossary flow, expanded to 977 terms
+
+- Fixed glossary layout: each letter renders as a full-width row grid
+  with terms flowing left-to-right (no more zigzag column layout)
+- Expanded glossary from 817 → 977 terms with deep-dive content on:
+  * Insurance fundamentals (law of large numbers, risk pooling, policy parts)
+  * All 6 PAP parts (A-F) and auto coverage concepts
+  * All 6 HO coverage parts (A-F) and 4 homeowners forms (HO-3/4/5/6/8)
+  * CGL coverage parts A/B/C, occurrence vs. claims-made, ERP
+  * Commercial property forms, coinsurance, agreed value, business income
+  * BOP vs CPP, workers comp benefits and parts
+  * Reinsurance types (proportional, excess, catastrophe, treaty, facultative)
+  * Life insurance types (term, whole, universal, variable, VUL)
+  * Health insurance (HMO/PPO/EPO/POS/HDHP, HSA/FSA, deductibles/coinsurance)
+  * Niche specialty coverages (logger, log truck cargo, bobtail, installation)
+  * Cyber deep dive (first/third party, BEC, social engineering, silent cyber)
+  * Umbrella/excess, professional/management liability
+  * Loss control specifics (trucking fleet, logging, fire protection systems)
+  * Contract risk transfer, claims process, insurance regulation
+  * Insurance math (coinsurance, proration, loss ratio, combined ratio)
+- Updated build script to use grid-based letter rows instead of CSS columns
